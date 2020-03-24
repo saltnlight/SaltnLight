@@ -1,5 +1,18 @@
-### Hello World!
+### Git Task
 
-This repository was created from git bash and pushed to my remote github repository
 
-I am learning alot from start.ng 
+#### Name: Egwu Florence-Sarah Arong
+
+
+#### Email: arongflorence@yahoo.com
+
+
+#### Slack Username: SaltnLight
+
+
+#### Track: Frontend, Backend, Design
+
+
+#### Courses: * HTML/CSS/JavaScript 
+              * C#, Python
+              * UI/UX
