@@ -13,6 +13,7 @@
 #### Track: Frontend, Backend, Design
 
 
-#### Courses: * HTML/CSS/JavaScript 
+#### Courses: 
+              * HTML/CSS/JavaScript 
               * C#, Python
               * UI/UX
