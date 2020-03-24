@@ -1,16 +1,20 @@
 ### Git Task
 
 
-##### Name: ######Egwu Florence-Sarah Arong
+##### Name: 
+            Egwu Florence-Sarah Arong
 
 
-##### Email: ###### arongflorence@yahoo.com
+##### Email: 
+             arongflorence@yahoo.com
 
 
-##### Slack Username: ###### SaltnLight
+##### Slack Username: 
+                      SaltnLight
 
 
-##### Track: ###### Frontend, Backend, Design
+##### Track: 
+             Frontend, Backend, Design
 
 
 ##### Courses: 
